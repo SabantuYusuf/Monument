@@ -20,13 +20,13 @@ Today we're going to modernize a magazine website using a modern front-end libra
 **Suggested implementation**
 1. Create a React application in this repository, preferably in a new folder.
 2. Move *all* of your `html` content (minus the `head` tag) into a new component.
-3. Copy images into your `public` folder. 
+3. Copy images into your `public` folder.
 4. You may overwrite the `index.css` with the original *Monument* css.
 5. Logically separate different pieces of the *Monument* html into smaller components.  
 
 
 **Suggested components for `index.html`:**
-   
+
     - NavBar
     - Landing
       - Header
@@ -40,7 +40,7 @@ Today we're going to modernize a magazine website using a modern front-end libra
     - Footer
 
 **Suggested components for `blog.html`:**
-   
+
     - NavBar
     - Blog
       - Header
@@ -50,3 +50,13 @@ Today we're going to modernize a magazine website using a modern front-end libra
     - Footer
 
 Keep components as large as possible until you begin to see opportunities to capitalize on repetition or obvious semantic separations, such as articles, sections, header/main/footer, etc. This will keep your workflow comprehensive and straightforward.  One early but major pitfall of React development is the tendency to prematurely optimize components to their smallest kernels. Taking the time to work incrementally ensures consistent code.
+
+## Mockups
+
+### Landing Page
+
+![](/screenshots/landing_page.png)
+
+### Blog Page
+
+![](/screenshots/blog_pt_2.png)
