@@ -2,7 +2,7 @@ import React from 'react';
 
 function About() {
     return (
-        <section>
+        <section id="about" className="callout about">
             <article className="wrap">
                 <h2>ABOUT THE MAGAZINE</h2>
                 <h3>A LIFESTYLE MAGAZINE CRAFTED WITH LOVE</h3>

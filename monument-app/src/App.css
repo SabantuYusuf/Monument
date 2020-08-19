@@ -251,33 +251,33 @@ input, textarea {
 }
 
 ::-webkit-input-placeholder {
-   color: #7C878E;
-   text-transform: uppercase;
-   letter-spacing: 0.75px;
-   letter-spacing: .05rem;
-   font-size: 12.299px;
-   font-size: .82rem;
-   font-weight: 600;
+	color: #7C878E;
+	text-transform: uppercase;
+	letter-spacing: 0.75px;
+	letter-spacing: .05rem;
+	font-size: 12.299px;
+	font-size: .82rem;
+	font-weight: 600;
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: #7C878E;
-   text-transform: uppercase;
-   letter-spacing: 0.75px;
-   letter-spacing: .05rem;
-   font-size: 12.299px;
-   font-size: .82rem;
-   font-weight: 600;
+	color: #7C878E;
+	text-transform: uppercase;
+	letter-spacing: 0.75px;
+	letter-spacing: .05rem;
+	font-size: 12.299px;
+	font-size: .82rem;
+	font-weight: 600;
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: #7C878E;
-   text-transform: uppercase;
-   letter-spacing: 0.75px;
-   letter-spacing: .05rem;
-   font-size: 12.299px;
-   font-size: .82rem;
-   font-weight: 600;
+	color: #7C878E;
+	text-transform: uppercase;
+	letter-spacing: 0.75px;
+	letter-spacing: .05rem;
+	font-size: 12.299px;
+	font-size: .82rem;
+	font-weight: 600;
 }
 
 :-ms-input-placeholder {  
