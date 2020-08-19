@@ -144,7 +144,7 @@ section {
 /* ----------------------------------------
 Header
 ------------------------------------------- */
-/* header {
+header {
 	padding-top: 30px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -181,7 +181,7 @@ h1 a,
 h1 a:hover,
 header h2 {
 	color: #fff;
-} */
+}
 
 
 /* ----------------------------------------
